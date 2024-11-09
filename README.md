@@ -2,6 +2,8 @@ Vim bindings for Godot 4 at https://github.com/hyouuu/godot-vim
 
 Forked from https://github.com/joshnajera/godot-vim - many thanks to the original author and contributors, but it hasn't been maintained for over 8 months so decided to use this fork to get all the PRs merged.
 
+### Installation
+Use the official Godot documentation [here](https://docs.godotengine.org/en/stable/tutorials/plugins/editor/installing_plugins.html) to install the plugin.
 
 ### Supported Mode
 
